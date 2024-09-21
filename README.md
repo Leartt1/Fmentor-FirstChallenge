@@ -1,2 +1,1 @@
-# frontendmentor
-# First Challenge
+# frontendmentor First Challenge
